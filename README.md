@@ -1,30 +1,22 @@
 ## Welcome to XeX engine's page
 
-### Markdown
+### Hello
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### This is an engine inside of an engine. I'm making it with unity.
+# Goals
 
-1. Numbered
-2. List
+- Flexible
+- Easy to use
+- Manageable
+- Quality content
+- and much more!
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# Notice
+1. Please give credit.
+2. Negotiate at zapexdev@gmail.com for commercial use.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zapexdev/XeX/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[The repo is at](https://github.com/Zapexdev/XeX)
+[I'm at](https://github.com/Zapexdev)
