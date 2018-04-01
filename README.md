@@ -1,7 +1,7 @@
 ## Welcome to XeX engine's page
 
 ### Hello there!
-```markdown
+
 
 
  *This is an engine inside of an engine. I'm making it with unity.*
@@ -17,7 +17,7 @@
  **Notice**
 1. Please give credit.
 2. Negotiate at *zapexdev@gmail.com* for commercial use.
-```
+
 
 [repository](https://github.com/Zapexdev/XeX)
 
