@@ -19,6 +19,6 @@
 2. Negotiate at *zapexdev@gmail.com* for commercial use.
 
 
-[repository](https://github.com/Zapexdev/XeX)
+[repository](http://bit.ly/XeXengine)
 
-[zapexdev](https://github.com/Zapexdev)
+[zapexdev](http://bit.ly/Zapexdev)
